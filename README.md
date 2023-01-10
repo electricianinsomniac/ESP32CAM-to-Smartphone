@@ -5,7 +5,7 @@ How to Connecting ESP32CAM to Smartphone.
 in this project I connected them by using WIFI; this connect by peer-to-peer connections and esp32cam as an access point. it can be direct communication to minimize delay time. 
 
 ## Acknowledgements
-- [ESP32-CAM - WWW.randomnerdtutorials.com/ ](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
+- [ESP32-CAM](https://randomnerdtutorials.com/esp32-cam-ai-thinker-pinout/)
 
 ![image](https://user-images.githubusercontent.com/110273737/211490681-0bd1cd73-3020-49a7-a754-92c9208e4331.png)
 
