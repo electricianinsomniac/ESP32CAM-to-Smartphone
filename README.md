@@ -18,5 +18,6 @@ The software that used
    on the [Arduino site](https://www.arduino.cc/en/Guide/HomePage). If you follow the default install, 
 ## Support
 Troubleshooting Guide: https://RandomNerdTutorials.com/esp32-cam-troubleshooting-guide/
+https://virginrobotics.blogspot.com/2019/12/mpu6050-ardiuno-bot-update.html?m=1
 
 
