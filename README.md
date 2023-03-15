@@ -11,11 +11,13 @@ in this project I connected them by using WIFI; this connect by peer-to-peer con
 
 # Project
 my references about ESP32-CAM [randomnerdtutorials.com](https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/)
+my project Smartphone Controll Robot [TROBOS ROBOT](https://www.youtube.com/watch?v=ldyioH4OjzQ)
 
 # Software
 The software that used
  - It is assumed that you have the Arduino IDE installed. If not, refer to "Install the Arduino Desktop IDE" 
    on the [Arduino site](https://www.arduino.cc/en/Guide/HomePage). If you follow the default install, 
+   
 ## Support
 Troubleshooting Guide: https://RandomNerdTutorials.com/esp32-cam-troubleshooting-guide/
 https://virginrobotics.blogspot.com/2019/12/mpu6050-ardiuno-bot-update.html?m=1
